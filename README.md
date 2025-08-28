@@ -72,16 +72,16 @@ This dashboard provides **clarity in complexity** by combining interactive filte
 ** ## 📷 Dashboard Preview  
 
 ### 🖼 Overview Dashboard  
-![Dashboard Overview](screenshot1.png)
+![Dashboard Overview](Screenshot1.png)
 
 ### 🖼 Loan Analysis  
-![Loan Analysis](screenshot2.png)
+![Loan Analysis](Screenshot2.png)
 
 ### 🖼 Risk Analysis  
-![Risk Analysis](screenshot4.png)
+![Risk Analysis](Screenshot4.png)
 
 ### 🖼 Deposit Analysis  
-![Deposit Analysis](screenshot3.png)
+![Deposit Analysis](Screenshot3.png)
 
 
 ---
